@@ -1,0 +1,14 @@
+{
+  "item.tutorial.haha": "haha",
+  "itemGroup.group": "教學道具",
+  "item.tutorial.gg": "GG",
+  "item.tutorial.gura": "鯊鯊我婆",
+  "tooltip.tuitionmod.gura_shift": "我愛鯊鯊，不服來戰",
+  "tooltip.tuitionmod.gura": "我愛鯊鯊",
+  "block.tutorial.gura_block": "鯊鯊磚",
+  "block.tutorial.haha_block": "HaHa磚",
+  "message.tutorial.haha_block_left-clicked": "你為甚麼要打我?",
+  "message.tutorial.haha_block_right-clicked": "Ha Ha!",
+  "message.tutorial.haha_block_onWalk": "你就使勁採，對，用力踩",
+  "message.tutorial.gura_text": "I%s LIKE GAWR GURA!"
+}
